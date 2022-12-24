@@ -1,6 +1,6 @@
 # Remix Chat App
 
-[![🚀 Deploy](https://github.com/DaCurse/remix-chat-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/DaCurse/remix-chat-app/actions/workflows/deploy.yml)
+[![🚀 Deploy](https://github.com/tyler-minegar/chat-app-react/actions/workflows/deploy.yml/badge.svg)](https://github.com/tyler-minegar/chat-app-react/actions/workflows/deploy.yml)
 
 Live Demo: <https://remix-chat-app.fly.dev/>
 
